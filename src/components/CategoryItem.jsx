@@ -1,5 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
+import gslobal from '../global.css'
 
 const Container = styled.div`
     flex: 1;
